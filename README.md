@@ -27,4 +27,5 @@ This project uses the Gradle build system.
 Resources
 --------------
 [Polylines and Polygons to Represent Routes and Areas](https://developers.google.com/maps/documentation/android-api/polygon-tutorial).
+
 [Camera and View to Control the Animation](https://developers.google.com/maps/documentation/android-sdk/views).
